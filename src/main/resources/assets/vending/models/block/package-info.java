@@ -1,0 +1,1 @@
+package assets.vending.models.block;

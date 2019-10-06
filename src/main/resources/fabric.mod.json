@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "vending",
+  "version": "0.0.1",
 
-  "name": "Economy",
-  "description": "An economy plugin offering physical currency drops, digital currency storage, transfers and banking.",
+  "name": "Vending",
+  "description": "A vending mod for the MMOverhaul Banking mod, enabling the purchase, placing and maintaining of player or admin owned NPC vendors.",
   "authors": [
-    "Me!"
+    "BARKx4"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/BARKx4/Vending",
+    "sources": "https://github.com/BARKx4/Vending"
   },
 
   "license": "CC0-1.0",
