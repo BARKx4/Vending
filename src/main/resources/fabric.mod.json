@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.barkx4.economy.Main"
+      "com.barkx4.vending.Main"
     ],
 	"client": [
-		"com.barkx4.economy.Client"
+		"com.barkx4.vending.Client"
 	]
   },
   "mixins": [

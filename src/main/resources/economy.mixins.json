@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.barkx4.economy.mixin",
+  "package": "com.barkx4.vending.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
 	"MixinServerPlayNetworkHandler"
