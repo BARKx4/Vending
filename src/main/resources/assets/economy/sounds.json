@@ -1,0 +1,13 @@
+{
+  "coin_sound": {
+    "sounds": [
+      "economy:coins"
+    ]
+  },
+  "register_sound": {
+    "sounds": [
+      "economy:register"
+    ]
+  }
+}
+
